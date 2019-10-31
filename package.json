@@ -79,7 +79,7 @@
     "uuid": "^3.3.2",
     "vm-browserify": "0.0.4",
     "web3": "^1.0.0-beta.55",
-    "yarn": "^1.16.0"
+    "yarn": "^1.17.3"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
